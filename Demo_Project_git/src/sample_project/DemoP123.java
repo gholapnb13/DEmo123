@@ -4,6 +4,7 @@ public class DemoP123 {
   public static void main(String[] args) {
 	int b=555;
 	  int a = 4;
+	  int b = 767;
 
 		int b = 8;
 
